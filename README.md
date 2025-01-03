@@ -1,12 +1,12 @@
-# Olá, me chamo Tainara Barzotto Bernardi! 👋
+# Olá, me chamo Tainara Barzotto Bernardi!
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=TaiBarzotto&show_icons=true&theme=vue)](https://github.com/TaiBarzotto)
 
-## 🌟 Sobre Mim
+## Sobre Mim
 
 Sou estudante de **Ciência da Computação** na **Universidade Federal da Fronteira Sul**. Atualmente, trabalho desenvolvendo **automações** em **Python** e **SQL**. Sou uma grande entusiasta de **ciência de dados** e **desenvolvimento** em geral.
 
-## 🛠️ Habilidades
+## Habilidades
 
 Aqui estão algumas das tecnologias que domino:
 
@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias que domino:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaiBarzotto&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/TaiBarzotto?tab=repositories)
 
-## 📫 Contato
+## Contato
 
 Você pode me encontrar em:
 - **E-mail**: [taibernardi99@gmail.com](mailto:taibernardi99@gmail.com)
