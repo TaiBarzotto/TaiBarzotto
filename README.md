@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Sou estudante de **Ciência da Computação** na **Universidade Federal da Fronteira Sul**. Atualmente, trabalho desenvolvendo **automações** em **Python** e **SQL**. Sou uma grande entusiasta de **ciência de dados** e **desenvolvimento** em geral.
+Sou estudante de **Ciência da Computação** na **Universidade Federal da Fronteira Sul**. Atualmente, trabalho desenvolvendo **automações** em **Python** e **SQL**. Sou uma grande entusiasta de **tecnologia** e **desenvolvimento** em geral.
 
 ## Habilidades
 
