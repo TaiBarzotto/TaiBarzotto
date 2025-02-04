@@ -1,29 +1,30 @@
-# Olá, me chamo Tainara Barzotto Bernardi!
+# Hi there, I'm Tainara!
+I'm a **Computer Science** student and a huge tech and development enthusiast! Right now, I'm working on developing **RPA (Robotic Process Automation)** solutions using **Python** and **SQL**. 
+<div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=TaiBarzotto&show_icons=true&theme=vue)](https://github.com/TaiBarzotto)
+![GIF](https://github.com/user-attachments/assets/ab85488a-1a21-4c97-82ed-8f9fefcef9d4)
 
-## Sobre Mim
+</div>
 
-Sou estudante de **Ciência da Computação** na **Universidade Federal da Fronteira Sul**. Atualmente, trabalho desenvolvendo **automações** em **Python** e **SQL**. Sou uma grande entusiasta de **tecnologia** e **desenvolvimento** em geral.
+## Skills
 
-## Habilidades
+Here are some of the technologies I'm good at:
 
-Aqui estão algumas das tecnologias que domino:
-
-- **Linguagens de Programação**: 
-  - Python
+- **Programming Languages**: 
+  - Python 
   - SQL
   - C/C++
   - PHP
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaiBarzotto&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/TaiBarzotto?tab=repositories)
 
-## Contato
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaiBarzotto&size_weight=0.5&count_weight=0.5&exclude_repo=Formulario,TaiBarzotto.github.io&layout=donut-vertical&theme=shadow_red&bg_color=00000000)
 
-Você pode me encontrar em:
-- **E-mail**: [taibernardi99@gmail.com](mailto:taibernardi99@gmail.com)
+## Contact
+
+You can find me at:
+- **Email**: [taibernardi99@gmail.com](mailto:taibernardi99@gmail.com)
 - **LinkedIn**: [Tainara Barzotto Bernardi](https://www.linkedin.com/in/tainara-barzotto-bernardi-ab7238235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-Sinta-se à vontade para entrar em contato ou colaborar em projetos! Estou sempre aberta a novas oportunidades e aprendizados. 😊
+Feel free to reach out or collaborate on projects! I'm always open to new opportunities and learning. 😊
